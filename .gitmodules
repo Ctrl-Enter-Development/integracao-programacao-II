@@ -1,0 +1,3 @@
+[submodule "caminho/para/clintondev"]
+	path = caminho/para/clintondev
+	url = https://github.com/clintondev/clintondev.git
